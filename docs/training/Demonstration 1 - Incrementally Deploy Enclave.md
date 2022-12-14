@@ -70,7 +70,7 @@ az login
 
 $context = Get-AzContext
 
-$location = [your region]
+$location = ["eastus" | "usgovvirginia"]
 ```
 
 ### Part 1: Create Management Groups
